@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "handy-cathode-260222",
+  "private_key_id": "337745e1ad770b4f0150331ea10d30cfd6e52775",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDgCJFIwMSti+A8\n1sop83uJGMdmuzJfF2xFedO6+kaN3kMJK1ohjrGsO/wR3h77yPJGSkVgsxSTaqj8\nYxfhqqklZS1Fkg4OWWgXlPG/CgG9l654M1okA0+RsQpjnYVM0nLXd8ox6EVFZb0s\nEFVlT3EvJyaAdR0b+phnfwfP/+m8ogz7kHsSbu6PIsqWGXmHu+cLB/GgQ/0Tqwva\nuEEy+Op5cr+yWkZWqszpH2ICjbHRU3alia5+33Oas9bYs7kNx9ZlxlIymeXU3ppn\nnUseepi17+3nV7A6EVt7LTmMAa9uTsWXbZbiXscXQXero4gaGcOCvzDO1KsODOQi\ncHu9/uOXAgMBAAECggEAS3m3cHo5CHqqRfTa0P1Nbieh7fM9Cho7CMD9Wu28XUk2\n7lzjlZCcPPlMd7yMVakiLhoRe315fhyd58F+pzE2oPmQIfMNtznZvrAYLZMyeOwk\nBCzQvnc7FEs/w8WqxfHUbNDXlq64v6OB8tlh26rC5+7ZosdR0j4/oAaE3EdMOJcC\nRgOgSxsDsKI+PuyN/nwXnOyaXC98ahG79ueJiihhYqxTecbkejsYkYSmhNe5vDwv\nqRS0EWSLYAkxPp6Av3r39QbHTOAgi/oP1PvqQ7qT9mLDOpYjCBngH3r1CGZ5c5Bv\np9IRXlF0u31KVMnZEmFjD5zCFKynT8gGLE4LKj/qGQKBgQDypyum9e42nB1I0wz3\nlj/G7260pCvSam4mhikkEO4NDLByTDRTZ5lbGzTDLS9HW7fkBY5e90cXb6eZLO6X\nI97J0/z5v7mtyYc5FgTs+KJ0UP7mob4rVUjiCkGn8z5t9TmJhi8xGvCs7BTsE964\n5o5sD++C21pHRYIfwN1PCof25QKBgQDsWzZ1KkwF2711aV2u6D4sdLyBjvR7kwJR\noRcLlQRF2KmyVHZGN6T9YtwdcTL5rY2dKVQf4sTdAIX7d56xEvKHTLs7Hjq49Apb\nzJJhyu6O8E0+6TJySAj5JyRakGKsYzR62Y62SdCZTjOP6rE0TgJ+2O2Y8rFWXPxH\nsAiuhhfsywKBgQDhA55aLDJjV69cScH7kcvAiWVqg9bTP7i3Zq+d70kgtsSkqP/Y\n2/f84SSzXSI7lNTY0UIt1DaLiBGt3Fm/tBazqC4t1tmzS29mw4F70jCrljRZ4GD9\nxA9a9VHfEZSx2LYrTlBSw/2tDRt1tBNT+RDXKovbF9gGwXEiSvGui0B79QKBgQDa\nwqmq1BU9Lt8ydu2A3+/70ahP+fKLFcwFpaXg0HH9+8VFCyvVXddVt1Sn44gc0+fI\n2OHGCWvQaZWY5GR63GChngGFfDs5yJZ11Oh/nwYiQoQcgFZys/2qLfJV6GGL0N5X\n/lk6myN5YYoT4FNXaASjR0DSWX6Nws61w1alwfMO9QKBgQCq+Ucb7nlDDoy1Oy3z\nbEzAsKeVBfBJmhytEKaQP4XYoOvR0NEFWGem2cMXocefTOVhLZEIroWE9nQB4OzF\nPoVNQRZszfrYLkliy/NcOt8rgIhSB4eC8dY57rvGjMtj5RU/NYl1xtREHFLtzxJ+\nb+53j4zzEF8QGPdVVluU2ffFbQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "laptop@handy-cathode-260222.iam.gserviceaccount.com",
+  "client_id": "116246013903379491584",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laptop%40handy-cathode-260222.iam.gserviceaccount.com"
+}

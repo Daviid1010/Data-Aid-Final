@@ -2,7 +2,7 @@ import os
 from google.cloud import vision
 from google.cloud.vision import types
 
-os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\david\Downloads\My Project 89279-337745e1ad77.json"
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = r"C:\Users\david\PycharmProjects\Data-Aid-Final\My Project 89279-337745e1ad77.json"
 
 client = vision.ImageAnnotatorClient()
 
